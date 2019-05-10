@@ -9,7 +9,8 @@ interessant vindt en waar je genoeg over kunt vinden, dat maakt het project leuk
 werken.
 
 * Wat wordt er gevraagd?
-
+Alle inhoud komt uit de database, er staat geen inhoud in de HTML/PHP Pagina's
+Homepage, Informatiepagina's, Agenda, Zoekpagina + resultaten en Extra features.
 
 * Welke globale planning is er?
 
