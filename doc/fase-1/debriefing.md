@@ -24,3 +24,4 @@ Homepage, Informatiepagina's, Agenda, Zoekpagina + resultaten en Extra features.
 | 6 |10-14 juni|Feedback verwerken Afmaken & Verbeteren|Live Website|do 13 juni: lesuitval|
 | 7 |17-21 juni|Testen|Inleveren in Magister| ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `DEADLINE: 21 juni 19:00`|
 * Wat zijn je eerste ideeen voor jouw project?
+Een heel mooi en clean website design, Pagination, mooie logo.
