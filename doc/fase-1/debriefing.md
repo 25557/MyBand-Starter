@@ -3,7 +3,14 @@
 Schrijf in dit document de debriefing voor jouw MyBand project
 
 * Wat is volgens jou de opdracht?
+MyBand is een website over één onderwerp. Dit kan een band, artiest, kunstenaar,
+(voetbal)club, hobby of community zijn. Dit mag fictief zijn, maar zorg dat het iets is dat je
+interessant vindt en waar je genoeg over kunt vinden, dat maakt het project leuk om aan te
+werken.
+
 * Wat wordt er gevraagd?
+
+
 * Welke globale planning is er?
 
 | W | Datum | Werkzaamheden | Inleveren / Opleveren | Bijzonderheden|
