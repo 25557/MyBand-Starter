@@ -12,20 +12,14 @@ Dit mag hier ook als los spreadsheet bestand worden neergezet.
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | U0001 | Gebruiker | de laatste nieuwberichten zien | op de hoogte kom van wat er is gebeurd | | Must have | TODO |
-| U0002 | Gebruiker | een account aanmaken | toegang krijg tot extra features | | Must have | TODO |
-
-
-###### Geregistreerde gebruikers
-| # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| G0001 | Geregistreerd gebruiker | mijn profiel foto kunnen aanpassen | zodat ik mezelf goed kan presenteren | | Must have | TODO |
+| U0002 | Gebruiker | Categorieeën hebben | Alles kan sorteren | | Must have | TODO |
+| U0003 | Gebruiker | Zoekbalk | Zodat ik altijd m'n nieuws kan terug vinden | | Must have | TODO |
 
 
 ##### Admins
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| B0001 | Admin | een overzicht van alle gebruikers | zodat ik deze kan beheren | | Must have | TODO |
-| B0002 | Admin | een account kunnen disablen | zodat ik controle heb over wie er in kan loggen | | Must have | TODO |
+| B0001 | Admin | een nieuwsartikel kan toevoegen | zodat ik mensen andere nieuws kan geven | | Must have | TODO |
 
 
 
