@@ -1,0 +1,80 @@
+@charset "UTF-8";
+body {
+  margin: 0;
+  font-family: roboto;
+  font-weight: 300;
+}
+
+#site {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-areas:
+  "nav nav nav nav nav nav"
+  "con con con con con con"
+  "win win win win win win"
+  "pag pag pag pag pag pag"
+}
+header {
+  grid-area: nav;
+}
+
+.content {
+  padding-top: 20px;
+  grid-area: con;
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  margin: 0 auto;
+  width: 70%;
+}
+.content h3 {
+  padding-top: 15px;
+  font-size: 30px;
+  text-align: center;
+}
+.content p {
+  padding-top: 10px;
+  font-size: 18px;
+  text-align: center;
+}
+.content img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 560px;
+  height: 320px;
+}
+
+.windows {
+  padding-top: 20px;
+  grid-area: win;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  margin: 0 auto;
+  width: 70%;
+}
+
+.windows img {
+  width: 350px;
+  height: 196,88px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.windows h3 {
+  padding-top: 15px;
+  font-size: 26px;
+  text-align: center;
+}
+.windows p {
+  padding-top: 10px;
+  font-size: 16px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+  display: grid;
+  grid-area: pag;
+}
