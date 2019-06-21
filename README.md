@@ -1,5 +1,5 @@
 ## Titel van jouw website
-www.myband.tinxian.nl is een website van Tin Xian Hu waar allemaal nieuwsitems over Techniek gaat.
+http://25557.hosts2.ma-cloud.nl/myband/public/ is een website van Tin Xian Hu waar allemaal nieuwsitems over Techniek gaat.
 
 ### Uniek aan dit concept is: 
  * Een clean en een rustig design
