@@ -2,8 +2,7 @@
 www.myband.tinxian.nl is een website van Tin Xian Hu waar allemaal nieuwsitems over Techniek gaat.
 
 ### Uniek aan dit concept is: 
- * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
- * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
+ * Een clean en een rustig design
 
 ---
 #### Milestones 
