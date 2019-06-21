@@ -61,7 +61,7 @@ Deze fase duurt 3 weken
 
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
-| B1-K3-W2 Link naar de live omgeving                        |  TODO |  <https://myband.tinxian.nl> |
+| B1-K3-W2 Link naar de live omgeving                        |  TODO |  <http://25557.hosts2.ma-cloud.nl/myband/public/> |
 | B1-K3-W2 Gebruikersdocumentatie / instructie               |  DONE |  [Gebruikers documentatie] |
 | B1-K3-W3 Evaluatie                                         |  DONE |  [Evaluatie] |
 
