@@ -1,6 +1,5 @@
 ## Titel van jouw website
-www.myband.tinxian.nl is een website van Tin Xian Hu waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
-De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+www.myband.tinxian.nl is een website van Tin Xian Hu waar allemaal nieuwsitems over Techniek gaat.
 
 ### Uniek aan dit concept is: 
  * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
@@ -23,7 +22,7 @@ Deze fase duurt 3 weken
 
 | Milestone  | Status | Link | Type Document of cloudservice |
 | ------ |  ------ | ------ | ------ |
-| README                                            | TODO | [README.md]  (dit document)          | MarkDown |
+| README                                            | DONE | [README.md]  (dit document)          | MarkDown |
 | B1-K1-W1 Debriefing                               | DONE | [Debriefing]                         | Markdown |
 | B1-K1-W2 Planning                                 | DONE | [Planning]                           | Markdown |
 | B1-K1-W2 Plan van aanpak                          | DONE | [Plan van Aanpak]                    | Markdown of Word/RTF|
@@ -50,9 +49,9 @@ Deze fase duurt 3 weken
 
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
-| B1-K1-W2 Product backlog                          | TODO | [Backlog]                            | Link naar Trello met Sprint planningen | |
-| B1-K1-W2 Sprint planning 1, 2 en 3                | TODO | [Trello] / [Trello Tips]             | Link naar Trello met Sprint planningen | |
-| B1-K1-W3 Technisch Ontwerp                        | TODO | [TO]                                 | Markdown of Word/RTF| |
+| B1-K1-W2 Product backlog                          | DONE | [Backlog]                            | Link naar Trello met Sprint planningen | |
+| B1-K1-W2 Sprint planning 1, 2 en 3                | DONE | [Trello] / [Trello Tips]             | Link naar Trello met Sprint planningen | |
+| B1-K1-W3 Technisch Ontwerp                        | DONE | [TO]                                 | Markdown of Word/RTF| |
 
 [Backlog]: </doc/fase-2/technisch-ontwerp.md>
 [TO]: </doc/fase-2/technisch-ontwerp.md>
@@ -63,9 +62,9 @@ Deze fase duurt 3 weken
 
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
-| B1-K3-W2 Link naar de live omgeving                        |  TODO |  <https://mijnliveomgeving.com> |
-| B1-K3-W2 Gebruikersdocumentatie / instructie               |  TODO |  [Gebruikers documentatie] |
-| B1-K3-W3 Evaluatie                                         |  TODO |  [Evaluatie] |
+| B1-K3-W2 Link naar de live omgeving                        |  TODO |  <https://myband.tinxian.nl> |
+| B1-K3-W2 Gebruikersdocumentatie / instructie               |  DONE |  [Gebruikers documentatie] |
+| B1-K3-W3 Evaluatie                                         |  DONE |  [Evaluatie] |
 
 [Gebruikers documentatie]: <doc/fase-3/gebruikersdocumentatie.md>
 [Evaluatie]: <doc/fase-3/evaluatie.md>
