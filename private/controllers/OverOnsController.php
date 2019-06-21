@@ -8,15 +8,14 @@
  * Geeft de gegevens aan de "view" laag (HTML template) om weer te geven
  *
  */
-class HomeController {
+class OverOnsController {
 
-	function homepage(){
+	function overons(){
 
-		include __DIR__ . '/../models/homeModel.php';
-		$featured_news = get_featured_news();
-		$other_news = get_other_news();
+		include __DIR__ . '/../models/overonsModel.php';
+		$overons = get_overons();
 		include __DIR__ . '/../views/header.php';
-        include __DIR__ . '/../views/home.php';
+        include __DIR__ . '/../views/overons.php';
 				include __DIR__ . '/../views/footer.php';
 
 	}

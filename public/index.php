@@ -47,7 +47,7 @@ require '../private/includes/init.php';
 $router = new AltoRouter();
 
 //Als jouw public folder niet te zien is als je naar http://localhoist gaat stel dan het juiste basePath in (pas dit pad aan naar jouw situatie)
-$router->setBasePath('/myband/public');
+$router->setBasePath($CONFIG['BASE_URL']);
 
 /**
  * Hier stellen we de juiste "routes" in voor onze website
@@ -56,7 +56,9 @@ $router->setBasePath('/myband/public');
 
 $router->map( 'GET', '/', 'HomeController#homepage', 'home' );
 
-$router->map( 'GET', '/overons', 'OverOns#overons', 'overons' );
+$router->map( 'GET', '/overons', 'OverOnsController#overons', 'overons' );
+
+$router->map( 'GET', '/allenieuws', 'AlleNieuwsController#allenieuws', 'allenieuws' );
 
 $router->map( 'GET', '/voorbeeld', function () {
 	echo 'Zo kun je ook een route afhandelen door een inline functie te gebruiken, maar dat wordt al snel rommelig (deze mag je dus weer weghalen of laten staan als voorbeeld';

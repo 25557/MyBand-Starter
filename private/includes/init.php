@@ -1,4 +1,6 @@
 <?php
+
+require __DIR__.'/functions.php';
 /**
  * Onderstaande code zorgt ervoor dat als we in onze code een controller willen gebruiken bijv:
  *
